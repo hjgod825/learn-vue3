@@ -1,5 +1,12 @@
 <template>
-	<div></div>
+	<div>
+		<div>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nostrum
+			quo provident. Recusandae, alias temporibus asperiores dolore aperiam
+			optio ab et, totam molestiae quidem architecto reprehenderit sunt tempore
+			mollitia iste.
+		</div>
+	</div>
 </template>
 
 <script>
@@ -10,4 +17,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped></style>
